@@ -1,0 +1,9 @@
+tweepy == 3.5.0
+falcon
+gunicorn
+PyMySQL
+dataset
+pytest
+pika
+python-dotenv
+pytz
